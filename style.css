@@ -4,3 +4,7 @@
   line-height: 1.7;
 }
 
+.container-lg {
+  max-width: 100% !important;
+}
+
