@@ -3,6 +3,7 @@ layout: default
 title: smoweb
 ---
 
+
 ## Small Web とは
 
 Small Web は、巨大なプラットフォーム中心の Web とは異なる、個人が自由に作る小さな Web のことを指します。広告やトラッキングを前提とした Big Web に対して、small Web は _simple_ _unbloated_ _personal_ を重視します。
