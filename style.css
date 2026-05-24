@@ -1,5 +1,6 @@
-body {
-  text-align: justify;
-  text-justify: inter-ideograph;
-  line-height: 1.75;
+.markdown-body {
+  text-align: justify !important;
+  text-justify: inter-ideograph !important;
+  line-height: 1.7;
 }
+
