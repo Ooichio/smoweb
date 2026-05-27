@@ -1,5 +1,5 @@
->  趣味と興味を世界と共有するための、小さく目立たないウェブがある。未完成で、風変わりで、それから愉快で、クリエイティヴで、興味深いウェブが。
->  Parimal Satyal, _Rediscovering the Small Web_, https://neustadt.fr/
+>  趣味と興味を世界と共有するための、小さく目立たないウェブがある。未完成で、風変わりで、それから愉快で、クリエイティヴで、興味深いウェブが。  
+>  Parimal Satyal, _Rediscovering the Small Web_, <https://neustadt.fr/>
 
 
 ## Small Web とは
