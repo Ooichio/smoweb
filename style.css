@@ -1,10 +1,10 @@
-body {
-  max-width: 42rem;
-  margin: auto;
-  padding: 2rem;
+.markdown-body {
+  hyphens: auto;
+  text-align: justify !important;
+  text-justify: inter-ideograph !important;
+  line-height: 1.7;
+}
 
-  line-height: 1.75;
-
-  text-align: justify;
-  text-justify: inter-ideograph;
+.container-lg {
+  max-width: 100% !important;
 }
